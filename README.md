@@ -12,3 +12,7 @@ Agentic AI Home for Project and Documentation
 - [agent-aws](https://github.com/cnoe-io/agent-aws)
 - [agent-github](https://github.com/cnoe-io/agent-github)
 - [agent-pagerduty](https://github.com/cnoe-io/agent-pagerduty)
+
+## Architecture
+
+![jarvis_arch_may_6th](https://github.com/user-attachments/assets/4b307065-ebcf-4770-a513-7fc5e661b2ae)
