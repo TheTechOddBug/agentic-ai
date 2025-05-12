@@ -1,6 +1,7 @@
 # agentic-ai
 Agentic AI Home for Project and Documentation
 
+- [Agentic AI SIG Goveranance](https://github.com/cnoe-io/governance/tree/main/sigs/agentic-ai)
 - [Project Roadmap](https://github.com/orgs/cnoe-io/projects/9)
 - [Milestones](https://github.com/cnoe-io/agentic-ai/milestones)
 - [Issues](https://github.com/cnoe-io/agentic-ai/issues)
