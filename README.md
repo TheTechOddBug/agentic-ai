@@ -16,4 +16,4 @@ Agentic AI Home for Project and Documentation
 
 ## Architecture
 
-![jarvis_arch_may_6th](https://github.com/user-attachments/assets/4b307065-ebcf-4770-a513-7fc5e661b2ae)
+![jarvis_arch_may_6th](https://github.com/user-attachments/assets/ca13dbf4-76e8-40ec-b391-52e2f364debf)
