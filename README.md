@@ -8,11 +8,17 @@ Agentic AI Home for Project and Documentation
 
 ## Repos
 
+### Multi-Agent System
+
 - [multi-agent-jarvis](https://github.com/cnoe-io/multi-agent-jarvis)
-- [agent-argocd](https://github.com/cnoe-io/agent-argocd)
-- [agent-aws](https://github.com/cnoe-io/agent-aws)
-- [agent-github](https://github.com/cnoe-io/agent-github)
-- [agent-pagerduty](https://github.com/cnoe-io/agent-pagerduty)
+
+### Sub-agents
+
+- [Agent Template (Weekend Activity)](https://github.com/cnoe-io/agent-template)
+- [Agent ArgoCD](https://github.com/cnoe-io/agent-argocd)
+- [Agent PagerDuty](https://github.com/cnoe-io/agent-pagerduty)
+- [Agent Atlassian](https://github.com/cnoe-io/agent-atlassian)
+- [Agent Slack](https://github.com/cnoe-io/agent-slack)
 
 ## Architecture
 
