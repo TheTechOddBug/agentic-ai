@@ -5,6 +5,7 @@ Agentic AI Home for Project and Documentation
 - [Project Roadmap](https://github.com/orgs/cnoe-io/projects/9)
 - [Milestones](https://github.com/cnoe-io/agentic-ai/milestones)
 - [Issues](https://github.com/cnoe-io/agentic-ai/issues)
+- [Releases](https://github.com/cnoe-io/agentic-ai/wiki/Release-1.0)
 
 ## Repos
 
