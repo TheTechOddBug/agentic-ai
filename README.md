@@ -1,6 +1,8 @@
 # agentic-ai
 Agentic AI Home for Project and Documentation
 
+**[Getting Started](https://github.com/cnoe-io/agentic-ai/wiki/Getting%E2%80%90Started)**
+
 - [Agentic AI SIG Goveranance](https://github.com/cnoe-io/governance/tree/main/sigs/agentic-ai)
 - [Project Roadmap](https://github.com/orgs/cnoe-io/projects/9)
 - [Milestones](https://github.com/cnoe-io/agentic-ai/milestones)
@@ -15,10 +17,11 @@ Agentic AI Home for Project and Documentation
 
 ### Sub-agents
 
-- [Agent Template (Weekend Activity)](https://github.com/cnoe-io/agent-template)
 - [Agent ArgoCD](https://github.com/cnoe-io/agent-argocd)
+- [Agent Atlassian (Jira/Confluence)](https://github.com/cnoe-io/agent-atlassian)
+- [Agent Backstage](https://github.com/cnoe-io/agent-backstage)
+- [Agent GitHub](https://github.com/cnoe-io/agent-github)
 - [Agent PagerDuty](https://github.com/cnoe-io/agent-pagerduty)
-- [Agent Atlassian](https://github.com/cnoe-io/agent-atlassian)
 - [Agent Slack](https://github.com/cnoe-io/agent-slack)
 
 ## Architecture
