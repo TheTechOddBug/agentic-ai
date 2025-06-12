@@ -13,7 +13,7 @@ Agentic AI Home for Project and Documentation
 
 ### Multi-Agent System
 
-- [multi-agent-jarvis](https://github.com/cnoe-io/multi-agent-jarvis)
+- [ai-platform-engineering](https://github.com/cnoe-io/ai-platform-engineering)
 
 ### Sub-agents
 
