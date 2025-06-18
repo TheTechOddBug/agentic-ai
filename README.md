@@ -24,6 +24,9 @@ Agentic AI Home for Project and Documentation
 - [Agent PagerDuty](https://github.com/cnoe-io/agent-pagerduty)
 - [Agent Slack](https://github.com/cnoe-io/agent-slack)
 
+### Backstage Plugin
+- [Agent Forge Backstage Plugin](https://github.com/backstage/community-plugins/tree/main/workspaces/agent-forge)
+
 ## Architecture
 
 ![jarvis_arch_may_6th](https://github.com/user-attachments/assets/ca13dbf4-76e8-40ec-b391-52e2f364debf)
