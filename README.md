@@ -6,8 +6,11 @@ Agentic AI Home for Project and Documentation
 - [Agentic AI SIG Goveranance](https://github.com/cnoe-io/governance/tree/main/sigs/agentic-ai)
 - [Project Roadmap](https://github.com/orgs/cnoe-io/projects/9)
 - [Milestones](https://github.com/cnoe-io/agentic-ai/milestones)
+- [Discussions](https://github.com/cnoe-io/agentic-ai/discussions)
 - [Issues](https://github.com/cnoe-io/agentic-ai/issues)
 - [Releases](https://github.com/cnoe-io/agentic-ai/wiki/Release-1.0)
+
+## [Meeting Recordings](https://github.com/cnoe-io/agentic-ai/wiki/Meeting-Recordings)
 
 ## Repos
 
