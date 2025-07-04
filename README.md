@@ -16,16 +16,14 @@ Agentic AI Home for Project and Documentation
 
 ### Multi-Agent System
 
-- [ai-platform-engineering](https://github.com/cnoe-io/ai-platform-engineering)
-
-### Sub-agents
-
-- [Agent ArgoCD](https://github.com/cnoe-io/agent-argocd)
-- [Agent Atlassian (Jira/Confluence)](https://github.com/cnoe-io/agent-atlassian)
-- [Agent Backstage](https://github.com/cnoe-io/agent-backstage)
-- [Agent GitHub](https://github.com/cnoe-io/agent-github)
-- [Agent PagerDuty](https://github.com/cnoe-io/agent-pagerduty)
-- [Agent Slack](https://github.com/cnoe-io/agent-slack)
+- AI Platform Engineering Mono-repo - https://github.com/cnoe-io/ai-platform-engineering
+    - MCP Servers
+    - Domain Agents (ArgoCD, Github, PagerDuty, etc.)
+    - KnowledgeBase Agents (RAG, GraphRAG)
+    - Multi-agents (Personal Agents)
+    - Agent Evaluations
+    - Deployment specifications
+- Documentation - https://cnoe-io.github.io/ai-platform-engineering/
 
 ### Backstage Plugin
 - [Agent Forge Backstage Plugin](https://github.com/backstage/community-plugins/tree/main/workspaces/agent-forge)
