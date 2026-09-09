@@ -7,7 +7,7 @@ Agentic AI Home for Project and Documentation
 
 ## Repos
 
-### CAIPE
+### CAIPE has a new home
 
 - CAIPE: AI Platform Engineering - https://github.com/caipe-io/ai-platform-engineering
 - Documentation - https://caipe.io
